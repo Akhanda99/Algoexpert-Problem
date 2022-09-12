@@ -9,10 +9,10 @@ def smallestDifference(arrayOne, arrayTwo):
             if min(difList) == difList[-1]:
                 x = arrayOne[i]
                 y = arrayTwo[j]
-
     ansList.append(x)
     ansList.append(y)
     return ansList
+
 
 
 #Test 01
