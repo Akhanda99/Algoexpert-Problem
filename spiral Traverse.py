@@ -1,5 +1,3 @@
-
-
 def spiralTraverse(array):
     # Write your code here.
     row=len(array)
@@ -50,6 +48,7 @@ array=[
   [11, 16, 15, 6],
   [10, 9, 8, 7]
 ]
+
 # array=[
 #     [27, 12, 35, 26],
 #     [25, 21, 94, 11],
